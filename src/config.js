@@ -15,7 +15,7 @@ import Logo from "./images/logo.svg";
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "CAMERA-MRI";
 
 // Navbar Logo image
 export const navLogo = null;
@@ -35,7 +35,7 @@ export { HeroDark as Dark };
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
+  "Imaging without Borders (IMAGINE) summer school is a hybrid training initiative of the Consortium for Advancement of MRI Education and Research in Africa (CAMERA).";
 
 /* Skills
  ************************************************************** 
@@ -114,4 +114,4 @@ export const projectCardImages = [
 export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
 
 // Footer icons theme (light or dark)
-export const footerTheme = "dark";
+export const footerTheme = "light";
