@@ -1,6 +1,6 @@
 {
   "name": "IMAGINE Summer School",
-  "homepage": "https://camera-mri.github.io/IMAGINE.github.io/",
+  "homepage": "https://camera-mri.github.io/IMAGINE.github.io",
   "version": "0.1",
   "private": true,
   "dependencies": {
